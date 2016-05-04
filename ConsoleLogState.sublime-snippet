@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[console.log(this.state)]]></content>
+    <tabTrigger>cls</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
