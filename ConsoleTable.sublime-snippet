@@ -1,0 +1,7 @@
+<snippet>
+    <content>
+        <![CDATA[console.table(${1:toLog});]]>
+</content>
+    <tabTrigger>ctbl</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

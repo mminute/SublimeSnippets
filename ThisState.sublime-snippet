@@ -1,0 +1,7 @@
+<snippet>
+    <content>
+        <![CDATA[this.state]]>
+</content>
+    <tabTrigger>ts</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
