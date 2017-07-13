@@ -1,0 +1,14 @@
+<snippet>
+<content>
+<![CDATA[
+class ${1:className} extends Component {
+  render() {
+
+  }
+}
+]]>
+</content>
+<tabTrigger>rclass</tabTrigger>
+<scope>source.js</scope>
+</snippet>
+
